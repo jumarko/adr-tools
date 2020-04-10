@@ -11,11 +11,21 @@ STATUS
 
 ## Related
 
-**Issue ticket:** <link to Jira/Trello/...>
-
 If you have related decisions, requirements, documents or guidelines that affect this decision, link them here.
 When linking another document, also add one sentence describing *why* the linked document influences this decision.
 If there are no related documents, remove this section.
+
+### Issues
+
+**Issue ticket:** <link to Jira/Trello/...>
+
+### Resources
+
+You can find more information about the subject topic here:
+ - Original ADR idea described by Michael Nygard: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+ - More recent blog post about ADRs with a better template: https://www.fabian-keller.de/blog/documenting-architecture-decisions/
+ - adr-tools with a custom template: https://github.com/jumarko/adr-tools
+ - custom ADR template: https://raw.githubusercontent.com/jumarko/adr-tools/master/src/template.md
 
 ## Context
 
@@ -45,11 +55,5 @@ After stating the decision, briefly explain the motivation that led to choosing 
 
 What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
 
-
-## Resources
-
-A list of resources where more information about the topic can be found to learn more about the subject:
- - https://www.fabian-keller.de/blog/documenting-architecture-decisions/
- - Custom ADR template: https://raw.githubusercontent.com/jumarko/adr-tools/master/src/template.md
 
 
