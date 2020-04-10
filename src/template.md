@@ -1,8 +1,9 @@
 # NUMBER. TITLE
 
 - *Date*: DATE
-- *Deciders*:
+- *Deciders*: 
 - *Category*: <CATEGORY - use a simple grouping to help organize the set of decisions (e.g. backend, payment, user management, ...)>
+- *Trello*: [My Jira/Trello issue](link)
 
 **TOC**: [Status](#status) | [Context](#context) | [Alternatives](#alternatives) | [Decision](#decision) | [Consequences](#consequences) | [Related](#related)
 
@@ -56,10 +57,6 @@ What becomes easier or more difficult to do and any risks introduced by the chan
 If you have related decisions, requirements, documents or guidelines that affect this decision, link them here.
 When linking another document, also add one sentence describing *why* the linked document influences this decision.
 If there are no related documents, remove this section.
-
-**[My Jira/Trello issue](link)**
-
-### Resources
 
 You can find more information about the subject topic here:
  - Original ADR idea described by Michael Nygard: http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
