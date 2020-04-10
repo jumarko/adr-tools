@@ -6,12 +6,12 @@
 
 **TOC**:
 
-- <a id="status">Status</a>
-- <a id="context">Context</a>
-- <a id="alternatives">Alternatives</a>
-- <a id="decision">Decision</a>
-- <a id="consequences">Consequences</a>
-- <a id="related">Related</a>
+- [Status](#status)
+- [Context](#context)
+- [Alternatives](#alternatives)
+- [Decision](#decision)
+- [Consequences](#consequences)
+- [Related](#related)
 
 <div id="status"></div>
 ## Status
