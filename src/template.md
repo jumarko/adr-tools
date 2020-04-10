@@ -15,9 +15,7 @@ If you have related decisions, requirements, documents or guidelines that affect
 When linking another document, also add one sentence describing *why* the linked document influences this decision.
 If there are no related documents, remove this section.
 
-### Issues
-
-**Issue ticket:** <link to Jira/Trello/...>
+**[My Jira/Trello issue](link)**
 
 ### Resources
 
