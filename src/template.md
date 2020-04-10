@@ -50,5 +50,6 @@ What becomes easier or more difficult to do and any risks introduced by the chan
 
 A list of resources where more information about the topic can be found to learn more about the subject:
  - https://www.fabian-keller.de/blog/documenting-architecture-decisions/
+ - Custom ADR template: https://raw.githubusercontent.com/jumarko/adr-tools/master/src/template.md
 
 
