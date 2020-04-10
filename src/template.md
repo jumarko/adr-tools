@@ -4,14 +4,7 @@
 - *Deciders*:
 - *Category*: <CATEGORY - use a simple grouping to help organize the set of decisions (e.g. backend, payment, user management, ...)>
 
-**TOC**:
-
-- [Status](#status)
-- [Context](#context)
-- [Alternatives](#alternatives)
-- [Decision](#decision)
-- [Consequences](#consequences)
-- [Related](#related)
+**TOC**: [Status](#status) | [Context](#context) | [Alternatives](#alternatives) | [Decision](#decision) | [Consequences](#consequences) | [Related](#related)
 
 <div id="status"></div>
 
